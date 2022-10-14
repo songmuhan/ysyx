@@ -10,4 +10,6 @@
 !README.md
 !.gitignore
 !init.sh
+!Notes.md
+!/notes/*
 /fceux-am
